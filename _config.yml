@@ -2,6 +2,8 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
 name: Ross Maguire
 
+title: Ross Maguire
+
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Geophysics, beer, python, and traveling the globe
 
