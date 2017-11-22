@@ -23,3 +23,5 @@ baseurl:
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 url: https://rossmaguire.github.io
+
+theme: jekyll-theme-cayman
