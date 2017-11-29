@@ -1,0 +1,8 @@
+#General Jekyll Config
+highlighter: rogue
+name: Ross Maguire
+description: Geophysics, beer, python, and exploring the globe
+url: "https://romaguir.github.io"
+author: Ross Maguire
+author_email: romaguir@umich.edu
+
